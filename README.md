@@ -11,3 +11,7 @@ Le lien du site : http://festivoituragebyvb.go.yj.fr/
 
 Le template est l'oeuvre de themefisher( https://themefisher.com/).
 
+La vidéo de notre site :
+
+https://github.com/melmv01/projet_pw_festivoiturage/assets/136352861/cfe3c107-d98a-4645-9daa-a2a0cedc6fdd
+
